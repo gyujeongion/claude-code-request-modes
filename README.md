@@ -8,6 +8,8 @@ request — and turns the rest off.
 
 ---
 
+![request-modes demo](demo/request-modes.gif)
+
 ## The problem
 
 You write your agent a strong global instruction set: a house style, a coding
